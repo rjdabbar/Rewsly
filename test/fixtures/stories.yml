@@ -1,13 +1,13 @@
-# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
-one:
-  title: MyString
-  link: MyString
+breaking_news:
+  title: Breaking News!
+  link: http\://example.com/breaking
   upvotes: 1
-  category: MyString
+  category: breaking
 
-two:
-  title: MyString
-  link: MyString
+about_cats:
+  title: A story about cats
+  link: http\://example.come/cats
   upvotes: 1
-  category: MyString
+  category: cats

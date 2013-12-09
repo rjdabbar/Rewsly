@@ -32,8 +32,15 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+group :test do 
+  # gem 'capybara'
+end
+
+# devise
+gem 'devise', '~>3.2.2'
+
 # Use ActiveModel has_secure_password
-# gem 'bcrypt-ruby', '~> 3.1.2'
+# gem 'bcrypt-ruby', '~> 3.0.0'
 
 # Use unicorn as the app server
 # gem 'unicorn'

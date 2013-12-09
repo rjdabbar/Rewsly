@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Rewsly::Application.config.secret_key_base = 'd354769764e3bd82df916602303f0da092d9a62235cd1e8225b269d17380f50258ff048f390f6f45ddd0b979fdc40fe4d1c97aa20e1248d9bed57193972df5b9'
+Rewsly::Application.config.secret_key_base = '6796eefe7efae3dc3209093516d6f88194e6f898a05e2e56f4d1ee2e3b24c8a42a459c447b27fe6dbbb071a227674c58246554e91a800dc2319c3db0a9dae782'
